@@ -1,4 +1,4 @@
-# Localization-IR-IMU-Kalman
+# Localization: IR IMU Kalman
 
 ## Sensor Fusion Code
 Addition downloads from Arduino Package Manager to run on Arduino:
