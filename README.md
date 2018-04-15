@@ -1,7 +1,7 @@
 # Localization: IR IMU Kalman
 ### Underground Position Tracking 
 #### Created by: Brian  Wijeratne, Michelle Milligan & Alan Miller
-Field Lab Coordinator: Dr. Kaamran Rahemifar
+Field Lab Coordinator: Dr. Kaamran Raahemifar
 
 Engineering Design Project | Ryerson University 
 
