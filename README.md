@@ -1,4 +1,5 @@
 # Localization: IR IMU Kalman
+Created by: Brian  Wijeratne, Michelle Milligan & Alan Miller
 
 ## Sensor Fusion Code
 Addition downloads from Arduino Package Manager to run on Arduino:
