@@ -1,8 +1,8 @@
 # Localization: IR IMU Kalman
 Underground Position Tracking 
-### Created by: Brian  Wijeratne, Michelle Milligan & Alan Miller
-### Field Lab Coordinator: Dr. Kaamran Rahemifar
-### Engineering Design Project | Ryerson University 
+#### Created by: Brian  Wijeratne, Michelle Milligan & Alan Miller
+#### Field Lab Coordinator: Dr. Kaamran Rahemifar
+#### Engineering Design Project | Ryerson University 
 
 ## Sensor Fusion Code
 Addition downloads from Arduino Package Manager to run on Arduino:
