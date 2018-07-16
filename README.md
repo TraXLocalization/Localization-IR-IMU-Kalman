@@ -7,7 +7,7 @@ Engineering Design Project | Ryerson University
 
 #### Video Demo: https://www.youtube.com/watch?v=NHgdYYAL6Hg&feature=youtu.be
 
-![alt text](https://drive.google.com/open?id=1Pw-6oGMtkK6VFWbOnkuxK0jzvgR9bFAe)
+<img src="https://lh5.googleusercontent.com/CwgAOd9_VpRLevIi1ZqnveLTMjEZezRT6H03uxhIeqTyKPvKslmJNuoBQfK-dgYcAlhlT9-lryx3_C9IdtdS=w1920-h808-rw" width="400" height="300" />
 
 ## Sensor Fusion Code
 Addition downloads from Arduino Package Manager to run on Arduino:
