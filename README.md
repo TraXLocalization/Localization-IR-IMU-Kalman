@@ -5,6 +5,10 @@ Field Lab Coordinator: Dr. Kaamran Raahemifar
 
 Engineering Design Project | Ryerson University 
 
+#### Video Demo: https://www.youtube.com/watch?v=NHgdYYAL6Hg&feature=youtu.be
+
+![alt text](https://drive.google.com/open?id=1Pw-6oGMtkK6VFWbOnkuxK0jzvgR9bFAe)
+
 ## Sensor Fusion Code
 Addition downloads from Arduino Package Manager to run on Arduino:
 - Adafruit BNO055
